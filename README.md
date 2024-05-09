@@ -1,1 +1,3 @@
-# efficient-building-automation
+Dowload these required packages
+mysql.connector
+tkinter
